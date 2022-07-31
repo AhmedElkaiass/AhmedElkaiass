@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C# , MS-SQL , .Net Core , Angular , bootstrap**
 
-- 📫 How to reach me **am310471@gmail.com**
+- 📫 How to reach me **am310471@gmail.com** **+201063930538** **+9660567016337**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
