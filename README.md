@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ahmed Elkaiass</h1>
-<h3 align="center">I 'm a full-stack developer</h3>
+<h3 align="center">I 'm .Net Full-Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahmedelkaiass&label=Profile%20views&color=0e75b6&style=flat" alt="ahmedelkaiass" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **C# , MS-SQL , .Net Core , Angular , bootstrap**
 
-- 📫 How to reach me **am310471@gmail.com** **+201063930538** **+9660567016337**
+- 📫 How to reach me **am310471@gmail.com** **+201080738025** **+9660567016337**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
